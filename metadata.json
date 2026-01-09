@@ -1,0 +1,7 @@
+{
+  "name": "A.I KIDS LABS",
+  "description": "An immersive, futuristic AI edutainment platform for kids and adults. Explore the world of Artificial Intelligence through a streaming-like experience with interactive AI tutors and parental tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
